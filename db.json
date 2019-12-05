@@ -54,10 +54,10 @@
       "img": "https://raw.githubusercontent.com/sdras/sample-vue-shop/master/dist/jacket3.png",
    },
    {
-      id: 50,
-      name: "Cotton Black Cap",
-      price: 12.99,
-      img: "https://raw.githubusercontent.com/sdras/sample-vue-shop/master/dist/jacket4.png",
+      "id": 50,
+      "name": "Cotton Black Cap",
+      "price: 12.99,
+      "img": "https://raw.githubusercontent.com/sdras/sample-vue-shop/master/dist/jacket4.png",
    },
    {
       "id": 51,
