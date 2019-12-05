@@ -28,40 +28,40 @@
   "profile": {
     "name": "typicode"
   },
-  "products" = [
+  "products": [
    {
       "id": 45,
-      "name": 'Polish Worl Boo',
+      "name": "Polish Worl Boo",
       "price": 149.99,
       "img": "https://raw.githubusercontent.com/sdras/sample-vue-shop/master/dist/hat1.png",
    },
    {
       "id": 46,
-      "name": 'Camo Fang Back',
+      "name": "Camo Fang Back",
       "price": 39.99,
       "img": "https://raw.githubusercontent.com/sdras/sample-vue-shop/master/dist/jacket1.png",
    },
    {
       "id": 48,
-      "name": 'Cotton Black Cap',
+      "name": "Cotton Black Cap",
       "price": 12.99,
       "img": "https://raw.githubusercontent.com/sdras/sample-vue-shop/master/dist/jacket2.png",
    },
    {
       "id": 49,
-      "name": 'Parka and Quilte',
+      "name": "Parka and Quilte",
       "price": 49.99,
       "img": "https://raw.githubusercontent.com/sdras/sample-vue-shop/master/dist/jacket3.png",
    },
    {
       id: 50,
-      name: 'Cotton Black Cap',
+      name: "Cotton Black Cap",
       price: 12.99,
       img: "https://raw.githubusercontent.com/sdras/sample-vue-shop/master/dist/jacket4.png",
    },
    {
       "id": 51,
-      "name": 'Polish Worl Boo',
+      "name": "Polish Worl Boo",
       "price": 149.99,
       "img": "https://raw.githubusercontent.com/sdras/sample-vue-shop/master/dist/shoe1.png",
    }
